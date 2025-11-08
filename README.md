@@ -1,16 +1,17 @@
 # mad_quiz3
 
-A new Flutter project.
+Flashcard Learning App
 
-## Getting Started
+A Flutter-based flashcard app to help you study efficiently with a clean, modern UI. Track your progress, reveal answers, and mark cards as learned with smooth animations.
 
-This project is a starting point for a Flutter application.
+Features
 
-A few resources to get you started if this is your first Flutter project:
+Swipe left to mark learned
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tap to reveal answer
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pull-to-refresh for new cards
+
+Add new flashcards dynamically
+
+Progress tracking with a visual bar
